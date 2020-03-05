@@ -3,5 +3,6 @@
 ##Description
 Allows users to generate an html page that displays basic employee summaries.
 
-Deployed link: https://czacney.github.io/Employee-Summary/
+##Using command line & node.js, npm init, npm run test
 
+![Screenshot](./screenshot.png)
